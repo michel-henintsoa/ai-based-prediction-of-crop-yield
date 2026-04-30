@@ -1,4 +1,4 @@
-from soilgrids import 
+from soilgrids import SoilGrid
 
 soil_grids = SoilGrids()
 data = soil_grids.get_coverage_data(service_id="phh2o", coverage_id="phh2o_0-5cm_mean", 
