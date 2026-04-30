@@ -1,0 +1,1 @@
+*** AI-based prediction of crop yield using environmental and seasonal data to optimize raw material supply for sustainable flour production in Madagascar ***
